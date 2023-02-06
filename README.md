@@ -6,3 +6,4 @@
 - Vanilla JavaScript
 
 ## Todos
+- Slide after few seconds
