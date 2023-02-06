@@ -8,3 +8,4 @@
 ## Todos
 - Slide after few seconds
 - Slider with Buttons
+- Slide to change an image
